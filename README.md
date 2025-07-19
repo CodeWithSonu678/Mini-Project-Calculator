@@ -29,7 +29,7 @@ The calculator features a clean and responsive user interface with dynamic calcu
 ## 📸 Screenshot
 
 
-![Calculator Screenshot](calculator.png)
+![Calculator Screenshot](screenshort.png)
 
 ## 🚀 How to Use
 
